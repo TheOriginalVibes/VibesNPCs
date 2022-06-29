@@ -1,0 +1,8 @@
+name: VibesNPCs
+main: ${project.groupId}.${project.name}
+version: ${project.version}
+api-version: 1.18
+softdepend: [ PlaceholderAPI ]
+commands:
+  vnpcs:
+    description: The Viiiiibes NPC Plugin.

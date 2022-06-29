@@ -1,0 +1,1 @@
+package at.vibes.domischmutz.npcs.skin;
